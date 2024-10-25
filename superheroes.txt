@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nombreSuperHeroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poderes": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "aliados": [
+      "Ironman"
+    ],
+    "enemigos": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperHeroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "edad": 50,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Tecnología",
+    "poderes": [
+      "Armadura mejorada",
+      "Inteligencia avanzada",
+      "Volar"
+    ],
+    "aliados": [
+      "Spiderman"
+    ],
+    "enemigos": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperHeroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Fuerza de velocidad",
+    "poderes": [
+      "Super velocidad",
+      "Reflejos rápidos"
+    ],
+    "aliados": [
+      "Green Lantern"
+    ],
+    "enemigos": [
+      "Reverse Flash"
+    ]
+  }
+]
